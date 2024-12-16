@@ -40,16 +40,16 @@ To rank the severity and impact of a breach, Jon (a security analyst or SOC anal
 
 Jon starts by collecting critical information about the breach:
 
-## Incident Details:
+### Incident Details:
 What type of breach occurred (e.g., data breach, ransomware, phishing)?
 What systems or networks were compromised?
-## Affected Assets:
+### Affected Assets:
 Were critical systems, servers, databases, or endpoints impacted?
 Any sensitive data (e.g., personal information, financial records) involved?
-## Detection Time:
+### Detection Time:
 How long did the threat remain undetected (dwell time)?
 Tools Jon Can Use:
 
-## SIEM Tools: Splunk, IBM QRadar, or Elastic Stack to analyze logs and alerts.
-## Endpoint Detection Tools: CrowdStrike, Microsoft Defender, or Carbon Black.
+### SIEM Tools: Splunk, IBM QRadar, or Elastic Stack to analyze logs and alerts.
+### Endpoint Detection Tools: CrowdStrike, Microsoft Defender, or Carbon Black.
 
