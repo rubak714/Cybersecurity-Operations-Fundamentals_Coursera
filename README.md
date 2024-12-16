@@ -35,3 +35,21 @@ The primary function of a SOC is to provide central monitoring capabilities to d
 
 If a SOC can either prevent or terminate an active attack, it can inherently save an organization time, money, and possibly prevent data exfiltration. Damage to a brand's reputation may also occur, depending on the nature and extent of the attack.
 
+# Example video
+To rank the severity and impact of a breach, Jon (a security analyst or SOC analyst) can follow a structured approach using industry-standard methodologies and tools. Here's how Jon can perform the task step by step:
+
+Jon starts by collecting critical information about the breach:
+
+## Incident Details:
+What type of breach occurred (e.g., data breach, ransomware, phishing)?
+What systems or networks were compromised?
+## Affected Assets:
+Were critical systems, servers, databases, or endpoints impacted?
+Any sensitive data (e.g., personal information, financial records) involved?
+## Detection Time:
+How long did the threat remain undetected (dwell time)?
+Tools Jon Can Use:
+
+## SIEM Tools: Splunk, IBM QRadar, or Elastic Stack to analyze logs and alerts.
+## Endpoint Detection Tools: CrowdStrike, Microsoft Defender, or Carbon Black.
+
