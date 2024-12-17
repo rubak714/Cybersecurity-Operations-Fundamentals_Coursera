@@ -27,7 +27,7 @@ Business goals and benefits of deploying a SOC.
 Awareness of challenges and mitigation strategies in SOC environments.
 
 ## SOC Defined
-  In this lesson, I have gained an understanding of SOC team member’s daily activities and responsibilities. I learn the various roles and responsibilities of prominent SOC team members and how they interact during incident investigations. “Why such close interaction?”. 
+In this lesson, I have gained an understanding of SOC team member’s daily activities and responsibilities. I learn the various roles and responsibilities of prominent SOC team members and how they interact during incident investigations. “Why such close interaction?”. 
 
 The SOC is a centralized command center for network security event monitoring and incident response. A SOC is responsible for detecting, analyzing, and reporting unauthorized and malicious network activity by employing advanced threat-detection capabilities.
 
